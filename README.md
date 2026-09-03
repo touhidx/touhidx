@@ -1,7 +1,7 @@
 ![Profile Banner](./banner.jpeg)
 
 # 💫 About Me:
-👋 Hi, I’m @touhidx<br>🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma for the backend.<br>🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL).<br>
+👋 Hi, I’m @touhidx<br>🖥️ I’m currently working on React.js, Next.js, Typescript and Redux for frontend development.<br>🗄️ Using Node.js, Express.js, MongoDB, Mongoose and PostgreSQL for the backend.<br>🛠️ I’m currently learning React Native, GraphQL, Docker and AWS.<br>💬 Ask me about Full-Stack (React, Next, Node, Express, MongoDB).<br>
 
 
 ## 🌐 Socials:
